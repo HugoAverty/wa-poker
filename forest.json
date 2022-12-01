@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entranceForest1"
+                 "value":"\/@\/pokerverse#entranceForest1"
                 }],
          "type":"tilelayer",
          "visible":true,

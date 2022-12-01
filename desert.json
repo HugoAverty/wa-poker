@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"map.json#entranceDesert1"
+                 "value":"\/@\/pokerverse#entranceDesert1"
                 }],
          "type":"tilelayer",
          "visible":true,
