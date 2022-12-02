@@ -72,7 +72,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/poker-castle"
+                 "value":"\/@\/poker-castle-2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -108,7 +108,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/poker-desert"
+                 "value":"\/@\/poker-desert-2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -144,7 +144,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/poker-forest"
+                 "value":"\/@\/poker-forest-2"
                 }],
          "type":"tilelayer",
          "visible":true,

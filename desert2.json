@@ -24,7 +24,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/@\/pokerverse#entranceDesert1"
+                 "value":"\/@\/pokerverse#entranceDesert2"
                 }],
          "type":"tilelayer",
          "visible":true,
