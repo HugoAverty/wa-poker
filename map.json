@@ -55,6 +55,11 @@
                  "name":"exitUrl",
                  "type":"string",
                  "value":"\/@\/poker-castle"
+                }, 
+                {
+                 "name":"silent",
+                 "type":"bool",
+                 "value":true
                 }],
          "type":"tilelayer",
          "visible":true,
